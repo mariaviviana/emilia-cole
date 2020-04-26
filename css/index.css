@@ -1,0 +1,37 @@
+h1{
+    font-family:'Raleway', sans-serif;
+    color: black;
+}
+h2{
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(37, 36, 36);
+    font-size: 30px;
+    opacity: 70%;
+}
+#text {
+    font-size: 50px;
+    position: absolute;
+    width: 84%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+ul{
+    color:black;
+    font-family:  'Work Sans', sans-serif;
+    opacity: 50%;
+    background-position: left;
+    list-style: none;
+}
+body{
+  width: 1200px;  
+  }
+.fab{
+    height: 35px;
+}
+div{
+    margin-left: 40px;
+}
+
+
+
+
+

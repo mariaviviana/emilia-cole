@@ -1,0 +1,83 @@
+
+h1{
+    font-family:'Raleway', sans-serif;
+    font-size: 50px;
+    color: black;;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(12, 142, 160);
+}
+
+h3{
+    font-family:'Open Sans', sans-serif;
+    font-size: medium;
+    color: rgb(12, 142, 160);
+}
+
+.header-container {
+    position: relative;
+    background-color: rgba(222, 222, 222, 0.5);
+    height: 66px;
+    margin-top: 30px;
+}
+.opciones {
+        right: 0;
+        top: 5px;
+        position: absolute;
+}
+li{
+    float:left;
+    list-style: none;
+    margin-left: 10px;
+    border-right: 1px solid black;
+    padding-right: 8px;
+}
+#raya{
+    border-left: 1px solid black;
+    padding-left:8;
+}
+.imagen {
+        width: 1111px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: -1;
+}
+
+.titulos h1 {
+    position: absolute;
+    top: 170px;
+}
+
+.titulos h1 {
+    position: absolute;
+    top: 170px;
+}
+.subtitulo1 {
+    position: absolute;
+    top: 350px;
+    margin-left:30px;
+}
+.parrafo1 {
+    position: absolute;
+    top: 440px;
+    margin-left:30px;
+} 
+.subtitulo2 {
+    position: absolute;
+    top: 530px;
+    margin-left:30px;
+}
+.parrafo2 {
+    position: absolute;
+    top: 620px;
+    margin-left:30px;
+} 
+.sociales {
+    position: absolute;
+    right: 0;
+    top: 80px;
+    z-index: 10;
+}

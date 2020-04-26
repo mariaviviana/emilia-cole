@@ -1,0 +1,37 @@
+.header-container {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.5);
+    height: 48px;
+    margin-top: -97px;
+}
+.opciones {
+    right: 10px;
+    position: absolute;
+}
+.opciones li{
+    float:left;
+    list-style: none;
+    margin-left: 10px;
+    border-right: 1px solid black;
+    padding-right: 8px;
+}
+#raya{
+    border-left: 1px solid black;
+    padding-left:8;
+}
+.sociales {
+    position: absolute;
+    right: 10px;
+    top: 55px;
+    z-index: 10;
+}
+h1{
+    font-family:'Raleway', sans-serif;
+    font-size: 50px;
+    color: black;
+    padding-top: 35px;
+}
+.color-letras h2{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(12, 142, 160);
+}
